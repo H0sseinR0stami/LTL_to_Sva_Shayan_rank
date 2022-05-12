@@ -1,0 +1,784 @@
+File is Okay!
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6291459
+pos7 29
+pos8 31
+tempLine.zerozeroCell = 0
+pos9 31
+pos10 33
+ tempLine.oneXCell 1
+pos11 33
+pos12 41
+ tempLine.zeroXCell 6291459
+pos13 41
+pos14 49
+tempLine.XoneCell = 6291460
+pos15 49
+pos16 51
+tempLine.XzeroCell = 0
+pos17 51
+pos18 18446744073709551615
+tempLine.XXCell = 6291460
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6291459
+pos7 29
+pos8 31
+tempLine.zerozeroCell = 0
+pos9 31
+pos10 33
+ tempLine.oneXCell 1
+pos11 33
+pos12 41
+ tempLine.zeroXCell 6291459
+pos13 41
+pos14 49
+tempLine.XoneCell = 6291460
+pos15 49
+pos16 51
+tempLine.XzeroCell = 0
+pos17 51
+pos18 18446744073709551615
+tempLine.XXCell = 6291460
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6291459
+pos7 29
+pos8 31
+tempLine.zerozeroCell = 0
+pos9 31
+pos10 33
+ tempLine.oneXCell 1
+pos11 33
+pos12 41
+ tempLine.zeroXCell 6291459
+pos13 41
+pos14 49
+tempLine.XoneCell = 6291460
+pos15 49
+pos16 51
+tempLine.XzeroCell = 0
+pos17 51
+pos18 18446744073709551615
+tempLine.XXCell = 6291460
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6111279
+pos7 29
+pos8 36
+tempLine.zerozeroCell = 180180
+pos9 36
+pos10 38
+ tempLine.oneXCell 1
+pos11 38
+pos12 46
+ tempLine.zeroXCell 6291459
+pos13 46
+pos14 54
+tempLine.XoneCell = 6111280
+pos15 54
+pos16 61
+tempLine.XzeroCell = 180180
+pos17 61
+pos18 18446744073709551615
+tempLine.XXCell = 6291460
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6291459
+pos7 29
+pos8 31
+tempLine.zerozeroCell = 0
+pos9 31
+pos10 33
+ tempLine.oneXCell 1
+pos11 33
+pos12 41
+ tempLine.zeroXCell 6291459
+pos13 41
+pos14 49
+tempLine.XoneCell = 6291460
+pos15 49
+pos16 51
+tempLine.XzeroCell = 0
+pos17 51
+pos18 18446744073709551615
+tempLine.XXCell = 6291460
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6225922
+pos7 29
+pos8 35
+tempLine.zerozeroCell = 65536
+pos9 35
+pos10 37
+ tempLine.oneXCell 1
+pos11 37
+pos12 45
+ tempLine.zeroXCell 6291458
+pos13 45
+pos14 53
+tempLine.XoneCell = 6225923
+pos15 53
+pos16 59
+tempLine.XzeroCell = 65536
+pos17 59
+pos18 18446744073709551615
+tempLine.XXCell = 6291459
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6160386
+pos7 29
+pos8 36
+tempLine.zerozeroCell = 131072
+pos9 36
+pos10 38
+ tempLine.oneXCell 1
+pos11 38
+pos12 46
+ tempLine.zeroXCell 6291458
+pos13 46
+pos14 54
+tempLine.XoneCell = 6160387
+pos15 54
+pos16 61
+tempLine.XzeroCell = 131072
+pos17 61
+pos18 18446744073709551615
+tempLine.XXCell = 6291459
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 6160386
+pos7 29
+pos8 36
+tempLine.zerozeroCell = 131072
+pos9 36
+pos10 38
+ tempLine.oneXCell 1
+pos11 38
+pos12 46
+ tempLine.zeroXCell 6291458
+pos13 46
+pos14 54
+tempLine.XoneCell = 6160387
+pos15 54
+pos16 61
+tempLine.XzeroCell = 131072
+pos17 61
+pos18 18446744073709551615
+tempLine.XXCell = 6291459
+pos1 17
+pos2 19
+tempLine.oneoneCell = 1
+pos3 19
+pos4 21
+tempLine.onezeroCell = 0
+pos5 21
+pos6 29
+tempLine.zerooneCell = 3801602
+pos7 29
+pos8 37
+tempLine.zerozeroCell = 2489856
+pos9 37
+pos10 39
+ tempLine.oneXCell 1
+pos11 39
+pos12 47
+ tempLine.zeroXCell 6291458
+pos13 47
+pos14 55
+tempLine.XoneCell = 3801603
+pos15 55
+pos16 63
+tempLine.XzeroCell = 2489856
+pos17 63
+pos18 18446744073709551615
+tempLine.XXCell = 6291459
+pos1 18
+pos2 20
+tempLine.oneoneCell = 1
+pos3 20
+pos4 22
+tempLine.onezeroCell = 0
+pos5 22
+pos6 30
+tempLine.zerooneCell = 6225922
+pos7 30
+pos8 36
+tempLine.zerozeroCell = 65536
+pos9 36
+pos10 38
+ tempLine.oneXCell 1
+pos11 38
+pos12 46
+ tempLine.zeroXCell 6291458
+pos13 46
+pos14 54
+tempLine.XoneCell = 6225923
+pos15 54
+pos16 60
+tempLine.XzeroCell = 65536
+pos17 60
+pos18 18446744073709551615
+tempLine.XXCell = 6291459
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145728
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3080193
+pos7 36
+pos8 42
+tempLine.zerozeroCell = 65536
+pos9 42
+pos10 50
+ tempLine.oneXCell 3145728
+pos11 50
+pos12 58
+ tempLine.zeroXCell 3145729
+pos13 58
+pos14 66
+tempLine.XoneCell = 6225921
+pos15 66
+pos16 72
+tempLine.XzeroCell = 65536
+pos17 72
+pos18 18446744073709551615
+tempLine.XXCell = 6291457
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145728
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3014657
+pos7 36
+pos8 43
+tempLine.zerozeroCell = 131072
+pos9 43
+pos10 51
+ tempLine.oneXCell 3145728
+pos11 51
+pos12 59
+ tempLine.zeroXCell 3145729
+pos13 59
+pos14 67
+tempLine.XoneCell = 6160385
+pos15 67
+pos16 74
+tempLine.XzeroCell = 131072
+pos17 74
+pos18 18446744073709551615
+tempLine.XXCell = 6291457
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145728
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3014657
+pos7 36
+pos8 43
+tempLine.zerozeroCell = 131072
+pos9 43
+pos10 51
+ tempLine.oneXCell 3145728
+pos11 51
+pos12 59
+ tempLine.zeroXCell 3145729
+pos13 59
+pos14 67
+tempLine.XoneCell = 6160385
+pos15 67
+pos16 74
+tempLine.XzeroCell = 131072
+pos17 74
+pos18 18446744073709551615
+tempLine.XXCell = 6291457
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145728
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 35
+tempLine.zerooneCell = 655873
+pos7 35
+pos8 43
+tempLine.zerozeroCell = 2489856
+pos9 43
+pos10 51
+ tempLine.oneXCell 3145728
+pos11 51
+pos12 59
+ tempLine.zeroXCell 3145729
+pos13 59
+pos14 67
+tempLine.XoneCell = 3801601
+pos15 67
+pos16 75
+tempLine.XzeroCell = 2489856
+pos17 75
+pos18 18446744073709551615
+tempLine.XXCell = 6291457
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145728
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3080193
+pos7 36
+pos8 42
+tempLine.zerozeroCell = 65536
+pos9 42
+pos10 50
+ tempLine.oneXCell 3145728
+pos11 50
+pos12 58
+ tempLine.zeroXCell 3145729
+pos13 58
+pos14 66
+tempLine.XoneCell = 6225921
+pos15 66
+pos16 72
+tempLine.XzeroCell = 65536
+pos17 72
+pos18 18446744073709551615
+tempLine.XXCell = 6291457
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145729
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3145729
+pos7 36
+pos8 38
+tempLine.zerozeroCell = 0
+pos9 38
+pos10 46
+ tempLine.oneXCell 3145729
+pos11 46
+pos12 54
+ tempLine.zeroXCell 3145729
+pos13 54
+pos14 62
+tempLine.XoneCell = 6291458
+pos15 62
+pos16 64
+tempLine.XzeroCell = 0
+pos17 64
+pos18 18446744073709551615
+tempLine.XXCell = 6291458
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145729
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3145729
+pos7 36
+pos8 38
+tempLine.zerozeroCell = 0
+pos9 38
+pos10 46
+ tempLine.oneXCell 3145729
+pos11 46
+pos12 54
+ tempLine.zeroXCell 3145729
+pos13 54
+pos14 62
+tempLine.XoneCell = 6291458
+pos15 62
+pos16 64
+tempLine.XzeroCell = 0
+pos17 64
+pos18 18446744073709551615
+tempLine.XXCell = 6291458
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145729
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3145729
+pos7 36
+pos8 38
+tempLine.zerozeroCell = 0
+pos9 38
+pos10 46
+ tempLine.oneXCell 3145729
+pos11 46
+pos12 54
+ tempLine.zeroXCell 3145729
+pos13 54
+pos14 62
+tempLine.XoneCell = 6291458
+pos15 62
+pos16 64
+tempLine.XzeroCell = 0
+pos17 64
+pos18 18446744073709551615
+tempLine.XXCell = 6291458
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145729
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 2965549
+pos7 36
+pos8 43
+tempLine.zerozeroCell = 180180
+pos9 43
+pos10 51
+ tempLine.oneXCell 3145729
+pos11 51
+pos12 59
+ tempLine.zeroXCell 3145729
+pos13 59
+pos14 67
+tempLine.XoneCell = 6111278
+pos15 67
+pos16 74
+tempLine.XzeroCell = 180180
+pos17 74
+pos18 18446744073709551615
+tempLine.XXCell = 6291458
+pos1 18
+pos2 26
+tempLine.oneoneCell = 3145729
+pos3 26
+pos4 28
+tempLine.onezeroCell = 0
+pos5 28
+pos6 36
+tempLine.zerooneCell = 3145729
+pos7 36
+pos8 38
+tempLine.zerozeroCell = 0
+pos9 38
+pos10 46
+ tempLine.oneXCell 3145729
+pos11 46
+pos12 54
+ tempLine.zeroXCell 3145729
+pos13 54
+pos14 62
+tempLine.XoneCell = 6291458
+pos15 62
+pos16 64
+tempLine.XzeroCell = 0
+pos17 64
+pos18 18446744073709551615
+tempLine.XXCell = 6291458
+ I am in UpdateTables 
+1 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.29146e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 0    R : 9.53674e-08
+
+ 
+2 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.29146e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 0    R : 9.53674e-08
+
+ 
+3 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.29146e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 0    R : 9.53674e-08
+
+ 
+4 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.11128e+06    00: 180180
+
+
+F+0 : 180180    F+1 : 6.11128e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 6.8456e-05    R : 2.74778e-05
+
+ 
+5 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.29146e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 0    R : 9.53674e-08
+
+ 
+6 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.22592e+06    00: 65536
+
+
+F+0 : 65536    F+1 : 6.22592e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 4.09037e-05    R : 1.64568e-05
+
+ 
+7 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.16039e+06    00: 131072
+
+
+F+0 : 131072    F+1 : 6.16039e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 5.81534e-05    R : 2.33567e-05
+
+ 
+8 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.16039e+06    00: 131072
+
+
+F+0 : 131072    F+1 : 6.16039e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 5.81534e-05    R : 2.33567e-05
+
+ 
+9 is the ID of assertion
+
+       11: 1    10: 0
+       01: 3.8016e+06    00: 2.48986e+06
+
+
+F+0 : 2.48986e+06    F+1 : 3.8016e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 0.000322647    R : 0.000129154
+
+ 
+10 is the ID of assertion
+
+       11: 1    10: 0
+       01: 6.22592e+06    00: 65536
+
+
+F+0 : 65536    F+1 : 6.22592e+06    F0+ : 6.29146e+06    F1+ : 1
+N : 6.29146e+06    S : 1.58946e-07    CC : 4.09037e-05    R : 1.64568e-05
+
+ 
+11 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.08019e+06    00: 65536
+
+
+F+0 : 65536    F+1 : 6.22592e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.102598    R : 0.341039
+
+ 
+12 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.01466e+06    00: 131072
+
+
+F+0 : 131072    F+1 : 6.16038e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.145865    R : 0.358346
+
+ 
+13 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.01466e+06    00: 131072
+
+
+F+0 : 131072    F+1 : 6.16038e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.145865    R : 0.358346
+
+ 
+14 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 655873    00: 2.48986e+06
+
+
+F+0 : 2.48986e+06    F+1 : 3.8016e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.809289    R : 0.623716
+
+ 
+15 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.08019e+06    00: 65536
+
+
+F+0 : 65536    F+1 : 6.22592e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.102598    R : 0.341039
+
+ 
+16 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.14573e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0    R : 0.3
+
+ 
+17 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.14573e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0    R : 0.3
+
+ 
+18 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.14573e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0    R : 0.3
+
+ 
+19 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 2.96555e+06    00: 180180
+
+
+F+0 : 180180    F+1 : 6.11128e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0.171707    R : 0.368683
+
+ 
+20 is the ID of assertion
+
+       11: 3.14573e+06    10: 0
+       01: 3.14573e+06    00: 0
+
+
+F+0 : 0    F+1 : 6.29146e+06    F0+ : 3.14573e+06    F1+ : 3.14573e+06
+N : 6.29146e+06    S : 0.5    CC : 0    R : 0.3
+
+ 
+   Property   Support      CC     Rank      IS   
+   1            0.00       0.00   0.00      0.00
+   2            0.00       0.00   0.00      0.00
+   3            0.00       0.00   0.00      0.00
+   4            0.00       0.00   0.00      0.00
+   5            0.00       0.00   0.00      0.00
+   6            0.00       0.00   0.00      0.00
+   7            0.00       0.00   0.00      0.00
+   8            0.00       0.00   0.00      0.00
+   9            0.00       0.00   0.00      0.00
+   10            0.00       0.00   0.00      0.00
+   11            0.50       0.10   0.34      1267.41
+   12            0.50       0.15   0.36      1281.11
+   13            0.50       0.15   0.36      1281.11
+   14            0.50       0.81   0.62      2746.61
+   15            0.50       0.10   0.34      1267.41
+   16            0.50       0.00   0.30      inf
+   17            0.50       0.00   0.30      inf
+   18            0.50       0.00   0.30      inf
+   19            0.50       0.17   0.37      inf
+   20            0.50       0.00   0.30      inf
+Min Interest = 1.00 , Max Interest = 1.65
+ Property  1 Normalized Interest                --->  0.00
+ Property  2 Normalized Interest                --->  0.00
+ Property  3 Normalized Interest                --->  0.00
+ Property  4 Normalized Interest                --->  0.02
+ Property  5 Normalized Interest                --->  0.00
+ Property  6 Normalized Interest                --->  0.01
+ Property  7 Normalized Interest                --->  0.01
+ Property  8 Normalized Interest                --->  0.01
+ Property  9 Normalized Interest                --->  0.40
+ Property  10 Normalized Interest                --->  0.01
+ Property  11 Normalized Interest                --->  0.01
+ Property  12 Normalized Interest                --->  0.01
+ Property  13 Normalized Interest                --->  0.01
+ Property  14 Normalized Interest                --->  0.40
+ Property  15 Normalized Interest                --->  0.01
+ Property  16 Normalized Interest                --->  0.00
+ Property  17 Normalized Interest                --->  0.00
+ Property  18 Normalized Interest                --->  0.00
+ Property  19 Normalized Interest                --->  0.02
+ Property  20 Normalized Interest                --->  0.00
